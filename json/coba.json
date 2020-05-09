@@ -1,0 +1,30 @@
+[
+{
+	"nama" : "Lekha",
+	"umur" : 22,
+	"npm" : "109150940138",
+	"lulus" : true,
+	"hobby" : [
+				"Coding",
+				"Nonton Drakor"
+	],
+	"pembimbing" : {
+		"dospem1" : "Pa Devi",
+		"dospem2" : "Pa Didi"
+	}
+},
+{
+	"nama" : "Jiyong",
+	"umur" : 22,
+	"npm" : "109150940138",
+	"lulus" : true,
+	"hobby" : [
+				"Coding",
+				"Nonton Drakor"
+	],
+	"pembimbing" : {
+		"dospem1" : "Pa Devi",
+		"dospem2" : "Pa Didi"
+	}
+}
+]

@@ -1,0 +1,65 @@
+html{
+	position: relative;
+}
+body{
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+.ig-thumbnail{
+	width: 100px;
+	height: 100px;
+	float: left;
+	overflow: hidden;
+}
+
+.ig-thumbnail img{
+	width: 100px;
+}
+
+.jumbotron img{
+	width: 200px;
+	border:5px solid #666;
+}
+
+.jumbotron{
+	background-color: lightpink;
+}
+
+hr{
+	width: 250px;
+	border: 1px solid #999;
+}
+
+section{
+	min-height: 600px;
+}
+
+.portfolio{
+	background-color: lightpink;
+}
+
+.contact{
+	min-height: 800px;
+}
+
+.social{
+	background-color: grey !important;
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: lightpink;
+	padding-top: 30px;
+}
+
+footer a{
+	color:red;
+	font-size: 1em;
+}
+footer p i {
+	color:red;
+}
